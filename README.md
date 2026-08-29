@@ -24,6 +24,13 @@ Estou focado em evoluir minhas habilidades técnicas para atuar como Analista de
 
 ---
 
+### 📂 Meus Projetos em Destaque
+
+* **[Network Ping Monitor](https://github.com):** Script em Python integrado com Multithreading para monitoramento automatizado de ativos críticos de rede e ISPs.
+
+---
+
+
 ### 📬 Vamos nos conectar?
 
 * **LinkedIn:** [Matheus Santos](https://linkedin.com)

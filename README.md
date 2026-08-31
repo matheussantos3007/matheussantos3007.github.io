@@ -26,7 +26,9 @@ Estou focado em evoluir minhas habilidades técnicas para atuar como Analista de
 
 ### 📂 Meus Projetos em Destaque
 
-* **[Network Ping Monitor](https://github.com/matheussantos3007/network-ping-monitor.git):** Script em Python desenvolvido com Multithreading para monitoramento automatizado e em tempo real de ativos críticos de rede e ISPs.
+* **[Network Ping Monitor](https://github.com):** Script em Python desenvolvido com Multithreading para monitoramento automatizado e em tempo real de ativos críticos de rede e ISPs.
+* **[Portfólio Pessoal](https://github.com):** Código-fonte do meu site pessoal e portfólio profissional hospedado no GitHub Pages. 
+  * 🌐 **[Acesse o site ao vivo aqui](https://github.io)**
 
 ---
 

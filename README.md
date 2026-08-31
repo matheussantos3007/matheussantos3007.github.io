@@ -17,7 +17,7 @@ Aqui estão as ferramentas e tecnologias com as quais trabalho diariamente ou es
 
 ### 🚀 Interesses de Desenvolvimento
 
-Estou focado em evoluir minhas habilidades técnicas para atuar como Analista de Redes / SysAdmin. Meus principais interesses atuais são:
+Estou focado em evoluir minhas habilidades técnicas para atuar como Analista de Redes / SysAdmin. Meus principais interesses antigos e atuais são:
 * Automação de redes e servidores usando **Python** e **Ansible**.
 * Administração avançada de sistemas **Linux**.
 * Configuração e otimização de ativos de rede em ambientes de grande porte.

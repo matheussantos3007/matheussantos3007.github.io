@@ -8,14 +8,10 @@ Atualmente trabalho como **Operador de Call Center e Monitor de Sistemas Noturno
 
 Aqui estão as ferramentas e tecnologias com as quais trabalho diariamente ou estou estudando ativamente:
 
-* **Redes & Infraestrutura:** 
-  ![Cisco](https://shields.io) Roteamento, Switching, Protocolos de Rede, Modelo OSI, TCP/IP
-* **Monitoramento:** 
-  ![Zabbix](https://shields.io) Ferramentas de NOC, Monitoria de Ativos de Redes
-* **Sistemas Operacionais:** 
-  ![Linux](https://shields.io) ![Ubuntu](https://shields.io) ![Debian](https://shields.io) ![Windows Server](https://shields.io)
-* **Linguagens & Ferramentas:** 
-  ![Python](https://shields.io) ![Shell Script](https://shields.io) ![Git](https://shields.io) ![GitHub](https://shields.io)
+* **Redes & Infraestrutura:** Roteamento, Switching, Protocolos de Rede, Modelo OSI, TCP/IP
+* **Monitoramento:** Ferramentas de NOC, Monitoria de Ativos de Redes
+* **Sistemas Operacionais:** Linux, Ubuntu, Debian, Windows Server
+* **Linguagens & Ferramentas:** Python, Shell Script, Git, GitHub
 
 ---
 
